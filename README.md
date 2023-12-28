@@ -1,4 +1,3 @@
-###### system-programming-project1
 ## About this project:
 
 This project was collaboratively developed by the following team members during the System Programming course:
@@ -7,7 +6,6 @@ This project was collaboratively developed by the following team members during 
 - [Muhammed Nihat Aydın](https://github.com/Nihat-AYDIN) 
 - [Muhammet Hamza Yavuz](https://github.com/hamza37yavuz) 
 
-## Project-1: A Communicating Multi-shell (Part-1: intro, shared file)
 # Project-1: A Communicating Multi-shell (Part-1: intro, shared file)
 
 ## Prerequisites
@@ -58,7 +56,7 @@ You can also perform direct writing to and reading from this area using fd.
 - It should appropriately redirect the given arguments.
 - It should close all file descriptors, etc., when exiting. Error checking should be performed on all system calls used.
 
-#### multishell
+### multishell
 It creates a given number of singleshell program instances. For example,
 
 multishell 4
