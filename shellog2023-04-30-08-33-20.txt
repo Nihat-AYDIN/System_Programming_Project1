@@ -1,0 +1,28 @@
+parent: 33672 Child: 33677 2023-04-30 08:28:20
+parent: 33671 Child: 33678 2023-04-30 08:28:20
+parent: 33669 Child: 33679 2023-04-30 08:28:20
+parent: 33670 Child: 33680 2023-04-30 08:28:20
+(8(73ls
+process: 33679 28)%0cd ..
+7/9&5pwd
+.process: 33677 (+6)3pwd
+process: 33679 907!4python
+5)!/1scapy
+(71)1whoami
+process: 33677 ,&89,./singleshell
+parent: 33679 Child: 34314 2023-04-30 08:30:56
+8,4/(ls
+process: 34314 485!)pwd
+process: 34314 07(26ls
+amiprocess: 33677 41509cd sisprog23
+8)/+8pwd
+isprog23process: 33677 ,7/77exit
+sprog23parent: 33672 Child: 33677 2023-04-30 08:32:57
+process: 33678 ),%+1exit
+parent: 33671 Child: 33678 2023-04-30 08:33:06
+4(,%+exit
+parent: 33679 Child: 34314 2023-04-30 08:33:10
+process: 33679 )4%%6exit
+gleshellparent: 33669 Child: 33679 2023-04-30 08:33:12
+process: 33680 %736+exit
+nparent: 33670 Child: 33680 2023-04-30 08:33:20
