@@ -1,22 +1,9 @@
 /*
- UMUTCAN MERT 21120205006 : addr'ye yazma islemi, multishell'de shellog dosyasi olusturma ve addr'yi shelloga atma
- SERHAT KILIC 21120205005 : loglari hashleme(ekstra fonksiyon), calisma zamani ve pid'leri dosyaya atma 
- MUHAMMED NIHAT AYDIN 21120205062 : addr'ye yazma islemi, renklendirme (ekstra fonksiyon)
- MUHAMMET HAMZA YAVUZ 21120205009 : birden fazla xtermle acma, loglari hashleme
- 
- NOT: Her kisinin yaninda yazan gorev gruptan ayri yaptigi calismadir.
-      Bunun disindaki fonksiyonlar grupca toplanilip hatalar ayiklanarak yapilmistir. Bu durum multishell.c icin de gecerlidir.
-      Her xterm'de calisan singleshell icin tarihler hem giris hem cikis icin addr'ye eklenir. 
-      Ekstra fonksiyonalite : - Alinan komutlari yazdirirken baslarina hash kodu eklenir.
-                              - Shell renklendirme.  
-
- Chatgpt'den veya diger yardimci sitelerden alinan destekler:(multishell ve singleshelldeki birlikte yazdik)
-    -strftime fonksiyonu ve bu fonksiyona bagli kutuphanelerin implemente edilmesi
-    -time ile ilgili kutuphanelerin entegre edilmesi ve kullanilmasi
-    -getenv fonksiyonunun kullanimi ve chdir fonksiyonunun kullanimi
-    -ANSI kullanimi ve islevi
-    -strcspn fonksiyonunun kullanimi
-*/
+ UMUTCAN MERT 
+ SERHAT KILIC  
+ MUHAMMED NIHAT AYDIN
+ MUHAMMET HAMZA YAVUZ  
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
